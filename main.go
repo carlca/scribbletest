@@ -3,10 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/nanobox-io/golang-scribble"
 )
 
-// a fish
+// a fish, a fish my knigdom for a fish
 type Fish struct{ Name string }
 
 func main() {
